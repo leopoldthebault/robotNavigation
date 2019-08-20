@@ -32,7 +32,7 @@ Plot **legend**:
 
 I have hard-coded the input variables to main() so that each program can be run without any knowledge of the code.
 
-Below are a few images showing what to expect.
+Below are a few images showing what to expect. First is a figure from the aforementioned paper, followed by the outputs of code versions 1.1, 2.0, and 3.0 respectively.
 
 ![](/images/paper_plot.JPG)
 ![](/images/fixed_2d_plot.JPG)
