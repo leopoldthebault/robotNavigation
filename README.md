@@ -31,3 +31,7 @@ Plot **legend**:
 **NOTE** For time-varying stages of implementation (2, 3) this is a non-deterministic program as I based the time on the host computer's clock.
 
 I have hard-coded the input variables to main() so that each program can be run without any knowledge of the code.
+
+Below are a few images showing what to expect.
+
+![paper plot](/images/paper_plot.jpg "Plot from paper")
