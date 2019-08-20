@@ -34,7 +34,7 @@ I have hard-coded the input variables to main() so that each program can be run 
 
 Below are a few images showing what to expect.
 
-![Plot from paper](/images/paper_plot.JPG "Plot from paper")
+![Plot from paper](/images/paper_plot.JPG =200 "Plot from paper")
 ![Fixed 2D plot](/images/fixed_2d_plot.JPG "Fixed 2D plot")
 ![Moving 2D plot](/images/moving_2d_plot.JPG "Moving 2D plot")
 ![Moving 3D plot](/images/moving_3d_plot.JPG "Moving 3D plot")
