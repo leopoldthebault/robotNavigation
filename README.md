@@ -34,7 +34,7 @@ I have hard-coded the input variables to main() so that each program can be run 
 
 Below are a few images showing what to expect.
 
-![](/images/paper_plot.JPG =200x)
+![](./images/paper_plot.JPG =200x)
 ![](/images/fixed_2d_plot.JPG)
 ![](/images/moving_2d_plot.JPG)
 ![](/images/moving_3d_plot.JPG)
