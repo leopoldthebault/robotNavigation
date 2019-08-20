@@ -34,4 +34,4 @@ I have hard-coded the input variables to main() so that each program can be run 
 
 Below are a few images showing what to expect.
 
-![Jekyll Now Theme Screenshot](/images/paper_plot.jpg "Jekyll Now Theme Screenshot")
+![Jekyll Now Theme Screenshot](/images/paper_plot.JPG "Jekyll Now Theme Screenshot")
