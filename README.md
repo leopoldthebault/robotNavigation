@@ -28,9 +28,9 @@ Plot **legend**:
 * red line: goal trajectory
 * green line: projected goal trajectory
 
-**NOTE** For time-varying stages of implementation (2, 3) this is a non-deterministic program as I based the time on the host computer's clock.
+**NOTE** For time-varying stages of implementation (2, 3) this is a non-deterministic program as the time is based on the host computer's clock, and the longer the program takes to run, the longer the goal's path will be.
 
-I have hard-coded the input variables to main() so that each program can be run without any knowledge of the code.
+The input variables to main() are hard-coded so that each program can be run without any knowledge of the code.
 
 Below are a few images showing what to expect. First is a figure from the aforementioned paper, followed by the outputs of code versions 1.1, 2.0, and 3.0 respectively.
 
