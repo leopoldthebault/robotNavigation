@@ -15,18 +15,18 @@ Key **assumptions**:
 * the robot's initial position is away from any obstacle.
 
 Main stages of **implementation**:
-1. v1.1 - 2D workspace with fixed goal;
-2. v2.0 - 2D workspace with time-varying goal;
-3. v3.0 - 3D workspace with time-varying goal.
+1. v1.1 - 2D workspace with fixed objective;
+2. v2.0 - 2D workspace with time-varying objective;
+3. v3.0 - 3D workspace with time-varying objective.
 
 Note that the third implementation step was done to look pretty but is essentially the same as the second step.
 
 Plot **legend**:
 * x_c: center of mass of initial robot position
-* x_d: initial position of goal
+* x_d: initial position of objective
 * blue line: robot trajectory
 * red line: goal trajectory
-* green line: projected goal trajectory
+* green line: projected objective trajectory
 
 **NOTE** For time-varying stages of implementation (2, 3) this is a non-deterministic program as the time is based on the host computer's clock, and the longer the program takes to run, the longer the goal's path will be.
 
